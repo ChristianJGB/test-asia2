@@ -26,7 +26,7 @@ const asianCountries = [
   { country: "Israel", capital: "Jerusalén" },
   { country: "Japón", capital: "Tokio" },
   { country: "Jordania", capital: "Amán" },
-  { country: "Kazajistán", capital: "Nursultán" },
+  { country: "Kazajistán", capital: "Astaná Nursultán" },
   { country: "Kirguistán", capital: "Biskek" },
   { country: "Kuwait", capital: "Kuwait" },
   { country: "Laos", capital: "Vientián" },
